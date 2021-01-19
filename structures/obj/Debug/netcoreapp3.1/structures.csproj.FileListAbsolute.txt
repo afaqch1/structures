@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\structures\structures\bin\Debug\netcoreapp3.1\structures.exe
+C:\Users\Techverx\source\repos\structures\structures\bin\Debug\netcoreapp3.1\structures.deps.json
+C:\Users\Techverx\source\repos\structures\structures\bin\Debug\netcoreapp3.1\structures.runtimeconfig.json
+C:\Users\Techverx\source\repos\structures\structures\bin\Debug\netcoreapp3.1\structures.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\structures\structures\bin\Debug\netcoreapp3.1\structures.dll
+C:\Users\Techverx\source\repos\structures\structures\bin\Debug\netcoreapp3.1\structures.pdb
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.dll
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.pdb
+C:\Users\Techverx\source\repos\structures\structures\obj\Debug\netcoreapp3.1\structures.genruntimeconfig.cache
